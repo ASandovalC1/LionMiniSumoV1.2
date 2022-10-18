@@ -1,0 +1,2 @@
+# LionMiniSumoV1.2
+STM32F042 LION
